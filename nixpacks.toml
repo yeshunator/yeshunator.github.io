@@ -1,1 +1,1 @@
-providers = ["ruby","node.js"]
+providers = ["ruby:3.1.2p20","node.js"]

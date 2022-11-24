@@ -1,1 +1,1 @@
-providers = ["ruby"]
+providers = ["ruby","node.js"]

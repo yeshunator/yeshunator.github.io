@@ -1,19 +1,17 @@
 ---
 layout: page
 menu: false
-date: '2020-02-27 01:53:59'
+date: '2022-11-25 09:47:00'
 title: About
 description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+<img class="img-rounded" src="https://i.postimg.cc/nLVmzPkq/Blue-Cartoon-Anime-Reminder-Facebook-Post.png" alt="bienenida" width="200">
 
 # About
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Hola, sea bienvenido a la pagina VerMangaHentai donde podras encontrar unos buenos
+pornasos de monas chinas 2d siendo folladas mientras hacen cara raras y todo completamente
+gratis campeon(a) y..... que mas puedo decir es una pagina de hentai a disfrutar del
+contenido

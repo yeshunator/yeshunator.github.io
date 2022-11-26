@@ -2,7 +2,7 @@
 date: 2019-05-16T23:48:05.000Z
 layout: post
 title: Bienvenido a la pagina
-subtitle: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
+subtitle: 'viva el hentai'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
   tempor incididunt ut labore et dolore magna aliqua.

@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: elcreador
+name: pak_guitar
 display_name: pak_guitar
 position: The One
 bio: Creador de la pagina vermangahentai

@@ -7,7 +7,7 @@ description: Some description.
 permalink: /about/
 ---
 
-<img class="img-rounded" src="https://i.postimg.cc/nLVmzPkq/Blue-Cartoon-Anime-Reminder-Facebook-Post.png" alt="Thiago Rossener" width="200">
+<img src="https://i.postimg.cc/nLVmzPkq/Blue-Cartoon-Anime-Reminder-Facebook-Post.png" alt="Thiago Rossener" width="100%">
 
 # About
 

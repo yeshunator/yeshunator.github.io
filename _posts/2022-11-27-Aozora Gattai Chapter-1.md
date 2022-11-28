@@ -3,7 +3,7 @@ date: 2022-11-28 12:26:40
 layout: post
 title: Aozora Gattai Chapter-1
 subtitle: una historia de sexo 
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+description: una historia de sexo.
 image: https://i.postimg.cc/DwPVH5fc/01.jpg
 optimized_image: https://i.postimg.cc/DwPVH5fc/01.jpg
 category: hentai

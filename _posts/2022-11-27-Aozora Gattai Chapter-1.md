@@ -7,7 +7,6 @@ description: una historia de sexo.
 image: https://i.postimg.cc/DwPVH5fc/01.jpg
 optimized_image: https://i.postimg.cc/DwPVH5fc/01.jpg
 category: hentai
-artistas: Hisasi
 tags:
   - ahegao
   - big breasts

@@ -6,8 +6,7 @@ subtitle: una mona china amante de nepes
 description: una mona china amante de nepes
 image: https://i.postimg.cc/rmf0LppD/01.jpg
 optimized_image: https://i.postimg.cc/rmf0LppD/01.jpg
-category: hentai
-artistas: Hisasi
+category: doujinshi
 tags:
   - ahegao
   - anal

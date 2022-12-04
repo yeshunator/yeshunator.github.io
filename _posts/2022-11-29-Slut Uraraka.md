@@ -20,24 +20,24 @@ tags:
 author: pak_guitar
 ---
 
-<a href="https://postimg.cc/xJ0HmTZg" target="_blank"><img src="https://i.postimg.cc/cH3cVvBq/02.jpg" alt="02"/></a><br/><br/>
-<a href="https://postimg.cc/7C10bTKf" target="_blank"><img src="https://i.postimg.cc/R0yRs7fQ/03.jpg" alt="03"/></a><br/><br/>
-<a href="https://postimg.cc/06178CdT" target="_blank"><img src="https://i.postimg.cc/8Cj4mKFz/04.jpg" alt="04"/></a><br/><br/>
-<a href="https://postimg.cc/Z0s39mxF" target="_blank"><img src="https://i.postimg.cc/VLmFVLST/05.jpg" alt="05"/></a><br/><br/>
-<a href="https://postimg.cc/LYNP3FKS" target="_blank"><img src="https://i.postimg.cc/RhzT9vgW/06.jpg" alt="06"/></a><br/><br/>
-<a href="https://postimg.cc/0KjwtXPw" target="_blank"><img src="https://i.postimg.cc/Y0fzCTPb/07.jpg" alt="07"/></a><br/><br/>
-<a href="https://postimg.cc/RqZKVhKZ" target="_blank"><img src="https://i.postimg.cc/kMxcst5K/08.jpg" alt="08"/></a><br/><br/>
-<a href="https://postimg.cc/CRkf6qTm" target="_blank"><img src="https://i.postimg.cc/kghFGQj3/09.jpg" alt="09"/></a><br/><br/>
-<a href="https://postimg.cc/4K1HXR3c" target="_blank"><img src="https://i.postimg.cc/fbGcjwn8/10.jpg" alt="10"/></a><br/><br/>
-<a href="https://postimg.cc/2VBqVZ6r" target="_blank"><img src="https://i.postimg.cc/NfdRC8v9/11.jpg" alt="11"/></a><br/><br/>
-<a href="https://postimg.cc/tZTJy1w0" target="_blank"><img src="https://i.postimg.cc/LXk1tLVs/12.jpg" alt="12"/></a><br/><br/>
-<a href="https://postimg.cc/87RjbgMY" target="_blank"><img src="https://i.postimg.cc/XYhd4VJn/13.jpg" alt="13"/></a><br/><br/>
-<a href="https://postimg.cc/5HpyZ5Pq" target="_blank"><img src="https://i.postimg.cc/C1p8nmkt/14.jpg" alt="14"/></a><br/><br/>
-<a href="https://postimg.cc/tZMTgqGs" target="_blank"><img src="https://i.postimg.cc/NFgrpFNk/15.jpg" alt="15"/></a><br/><br/>
-<a href="https://postimg.cc/SXmjT1Gx" target="_blank"><img src="https://i.postimg.cc/25Zv5Pbh/16.jpg" alt="16"/></a><br/><br/>
-<a href="https://postimg.cc/V0tYLXFh" target="_blank"><img src="https://i.postimg.cc/3NSW1B03/17.jpg" alt="17"/></a><br/><br/>
-<a href="https://postimg.cc/D8VvpYv3" target="_blank"><img src="https://i.postimg.cc/3JNkRPzN/18.jpg" alt="18"/></a><br/><br/>
-<a href="https://postimages.org/" target="_blank"><img src="https://i.postimg.cc/HxmJkjC1/19.jpg" alt="19"/></a><br/><br/>
+<img src="https://i.ibb.co/KLBRLhq/02.jpg" alt="02" border="0">
+<img src="https://i.ibb.co/BjH8fHf/04.jpg" alt="04" border="0">
+<img src="https://i.ibb.co/WsNhpVq/03.jpg" alt="03" border="0">
+<img src="https://i.ibb.co/8sLBNH4/05.jpg" alt="05" border="0">
+<img src="https://i.ibb.co/TrQ5Bmx/06.jpg" alt="06" border="0">
+<img src="https://i.ibb.co/rGCqLLt/07.jpg" alt="07" border="0">
+<img src="https://i.ibb.co/PCDpz5d/08.jpg" alt="08" border="0">
+<img src="https://i.ibb.co/DRtDMmG/09.jpg" alt="09" border="0">
+<img src="https://i.ibb.co/VN6mrbF/10.jpg" alt="10" border="0">
+<img src="https://i.ibb.co/BLP4XHY/11.jpg" alt="11" border="0">
+<img src="https://i.ibb.co/HPCt8mV/12.jpg" alt="12" border="0">
+<img src="https://i.ibb.co/mhPXmBq/13.jpg" alt="13" border="0">
+<img src="https://i.ibb.co/Rjy2xdk/14.jpg" alt="14" border="0">
+<img src="https://i.ibb.co/tcsFG8Y/15.jpg" alt="15" border="0">
+<img src="https://i.ibb.co/g6TH5rk/16.jpg" alt="16" border="0">
+<img src="https://i.ibb.co/mJ5XZMv/18.jpg" alt="18" border="0">
+<img src="https://i.ibb.co/TcTWRtk/17.jpg" alt="17" border="0">
+<img src="https://i.ibb.co/YdHrZV9/19.jpg" alt="19" border="0">
 
 
 Gracias por leer, si te gusto no olvides de compartir

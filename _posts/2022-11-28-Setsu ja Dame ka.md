@@ -16,42 +16,24 @@ tags:
 author: pak_guitar
 ---
 
-![placeholder](https://i.postimg.cc/4N8dSrsX/2.jpg)
-
-![placeholder](https://i.postimg.cc/PJyxh7Dz/3.jpg)
-
-![placeholder](https://i.postimg.cc/y8kd4v8c/4.jpg)
-
-![placeholder](https://i.postimg.cc/T2JhrKsL/5.jpg)
-
-![placeholder](https://i.postimg.cc/BnkvqHjy/6.jpg)
-
-![placeholder](https://i.postimg.cc/28jyTzpH/7.jpg)
-
-![placeholder](https://i.postimg.cc/5yb0hJX2/8.jpg)
-
-![placeholder](https://i.postimg.cc/s2Wg1xS2/9.jpg)
-
-![placeholder](https://i.postimg.cc/fLjWjP8n/10.jpg)
-
-![placeholder](https://i.postimg.cc/cCxxDczK/11.jpg)
-
-![placeholder](https://i.postimg.cc/L8YH05xV/12.jpg)
-
-![placeholder](https://i.postimg.cc/kMsX2kVW/13.jpg)
-
-![placeholder](https://i.postimg.cc/RZkMrm8x/14.jpg)
-
-![placeholder](https://i.postimg.cc/5Nt9LnvT/15.jpg)
-
-![placeholder](https://i.postimg.cc/gkBzD8HJ/16.jpg)
-
-![placeholder](https://i.postimg.cc/Hn6pFyG6/17.jpg)
-
-![placeholder](https://i.postimg.cc/0N79P3RM/18.jpg)
-
-![placeholder](https://i.postimg.cc/wvHgvVgW/19.jpg)
-
+<img src="https://i.ibb.co/RQpZRLj/01-2.jpg" alt="01-2" border="0">
+<img src="https://i.ibb.co/Scj6L0t/01-3.jpg" alt="01-3" border="0">
+<img src="https://i.ibb.co/8XdjsNb/01-4.jpg" alt="01-4" border="0">
+<img src="https://i.ibb.co/svRkV51/01-5.jpg" alt="01-5" border="0">
+<img src="https://i.ibb.co/tYP8qK1/01-6.jpg" alt="01-6" border="0">
+<img src="https://i.ibb.co/dGxz5Cy/01-7.jpg" alt="01-7" border="0">
+<img src="https://i.ibb.co/BqxP4gV/01-8.jpg" alt="01-8" border="0">
+<img src="https://i.ibb.co/2djpQrX/01-9.jpg" alt="01-9" border="0">
+<img src="https://i.ibb.co/B4HDQLR/10.jpg" alt="10" border="0">
+<img src="https://i.ibb.co/mRknLqp/11.jpg" alt="11" border="0">
+<img src="https://i.ibb.co/g4xQzcc/12.jpg" alt="12" border="0">
+<img src="https://i.ibb.co/HVsKQwc/13.jpg" alt="13" border="0">
+<img src="https://i.ibb.co/LxwrKZZ/14.jpg" alt="14" border="0">
+<img src="https://i.ibb.co/Qr7BcmB/15.jpg" alt="15" border="0">
+<img src="https://i.ibb.co/c1r6CHd/16.jpg" alt="16" border="0">
+<img src="https://i.ibb.co/XJx4HZZ/17.jpg" alt="17" border="0">
+<img src="https://i.ibb.co/S62gPpF/18.jpg" alt="18" border="0">
+<img src="https://i.ibb.co/YPYXtZ1/19.jpg" alt="19" border="0">
 
 Gracias por leer, si te gusto no olvides de compartir
 con tus panas o por las redes sociales para que la

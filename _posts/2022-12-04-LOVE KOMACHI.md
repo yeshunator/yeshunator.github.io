@@ -1,5 +1,5 @@
 ---
-date: 2022-12-04 00:45:00
+date: 2022-12-04 19:54:00
 layout: post
 title: (toudori) LOVE KOMACHI 
 subtitle: la komachi gente 10/10

@@ -26,7 +26,6 @@ tags:
 author: pak_guitar
 ---
 
-<img src="https://i.ibb.co/GMY7prj/1.jpg" alt="1" border="0"><br>
 <img src="https://i.ibb.co/yphd6kr/2.jpg" alt="2" border="0"><br>
 <img src="https://i.ibb.co/HhfXX00/3.jpg" alt="3" border="0"><br>
 <img src="https://i.ibb.co/BCZ6Hfv/4.jpg" alt="4" border="0"><br>
@@ -38,8 +37,8 @@ author: pak_guitar
 <img src="https://i.ibb.co/4pV9fL4/10.jpg" alt="10" border="0"><br>
 <img src="https://i.ibb.co/qgZLMpm/11.jpg" alt="11" border="0"><br>
 <img src="https://i.ibb.co/ZcDhzd6/12.jpg" alt="12" border="0"><br>
-<img src="https://i.ibb.co/mJ5JZpF/14.jpg" alt="14" border="0"><br>
 <img src="https://i.ibb.co/nr1yf9n/13.jpg" alt="13" border="0"><br>
+<img src="https://i.ibb.co/mJ5JZpF/14.jpg" alt="14" border="0"><br>
 <img src="https://i.ibb.co/vmPc8th/15.jpg" alt="15" border="0"><br>
 <img src="https://i.ibb.co/qdv7LL5/16.jpg" alt="16" border="0"><br>
 <img src="https://i.ibb.co/F6w78GZ/17.jpg" alt="17" border="0"><br>

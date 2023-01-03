@@ -1,9 +1,9 @@
 ---
-date: 2023-01-02 22:51:00
+date: 2023-01-02 16:51:00
 layout: post
 title: (Gomu) Roshutsu Shoujo to Zange Ana
-subtitle:
-description:
+subtitle: blue archive
+description: blue archive
 image: https://i.ibb.co/BjVgH61/1.jpg
 optimized_image: https://i.ibb.co/BjVgH61/1.jpg
 category: doujinshi

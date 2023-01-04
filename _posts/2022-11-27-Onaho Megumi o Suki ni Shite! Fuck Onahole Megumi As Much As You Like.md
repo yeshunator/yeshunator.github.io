@@ -18,7 +18,6 @@ tags:
   - student
 author: pak_guitar
 ---
-# ---
 
 ![placeholder](https://i.postimg.cc/Yqs6WdMv/02.jpg)
 

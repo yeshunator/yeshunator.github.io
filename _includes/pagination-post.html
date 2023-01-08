@@ -1,11 +1,5 @@
 <!-- Pagination links -->
 
-<!-- JuicyAds v3.0 -->
-<script type="text/javascript" data-cfasync="false" async src="https://poweredby.jads.co/js/jads.js"></script>
-<ins id="1007611" data-width="728" data-height="102"></ins>
-<script type="text/javascript" data-cfasync="false" async>(adsbyjuicy = window.adsbyjuicy || []).push({'adzone':1007611});</script>
-<!--JuicyAds END-->
-
 {% if paginator.page_trail %}
     {% assign next_posts = site.posts | where_exp:"post","post.is_generated != true" | where_exp:"post","post.path != page.path" | where_exp:"post","post.date <= page.date" %}
     <div class="pagination pagination-post {{ include.extra_classes }}">

@@ -20,7 +20,7 @@ menu:
     url: /about
   - title: Categorias
     url: /tags
-  - title: Contact
+  - title: Contacto
     url: /contact
   - title: Feed
     url: /feed.xml

@@ -7,38 +7,38 @@
 
     {% assign title = '' %}
     {% if page.layout == 'author' %}
-        {% assign title = page.display_name %}
+    {% assign title = page.display_name %}
     {% elsif page.title %}
-        {% assign title = page.title | append: " | " | append: site.name %}
+    {% assign title = page.title | append: " | " | append: site.name %}
     {% else %}
-        {% assign title = site.title %}
+    {% assign title = site.title %}
     {% endif %}
 
     {% assign image = '' %}
     {% if page.image %}
-        {% assign image = page.image %}
+    {% assign image = page.image %}
     {% else %}
-        {% assign image = "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url %}
+    {% assign image = "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
 
     {% assign description = '' %}
     {% if page.description %}
-        {% assign description = page.description | strip_html | strip_newlines | truncate: 160 %}
+    {% assign description = page.description | strip_html | strip_newlines | truncate: 160 %}
     {% else %}
-        {% assign description = site.description %}
+    {% assign description = site.description %}
     {% endif %}
 
     {% assign url = '' %}
     {% if paginator.page_trail %}
-        {% assign url = paginator.first_page_path | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+    {% assign url = paginator.first_page_path | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     {% else %}
-        {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
+    {% assign url = page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
 
     <title>{{ title }}</title>
     <meta name="description" content="{{ description }}">
     {% if page.tags %}
-        <meta name="keywords" content="{{ page.tags | join: ', ' }}">
+    <meta name="keywords" content="{{ page.tags | join: ', ' }}">
     {% endif %}
 
     <!-- Social: Twitter -->
@@ -47,13 +47,13 @@
     <meta name="twitter:description" content="{{ description }}">
 
     {% if image contains '://' %}
-        <meta property="twitter:image" content="{{ image }}">
+    <meta property="twitter:image" content="{{ image }}">
     {% else %}
-        <meta property="twitter:image" content="{{ image | prepend: site.url }}">
+    <meta property="twitter:image" content="{{ image | prepend: site.url }}">
     {% endif %}
-    
+
     {% if site.twitter_username %}
-        <meta name="twitter:site" content="@{{ site.twitter_username }}">
+    <meta name="twitter:site" content="@{{ site.twitter_username }}">
     {% endif %}
 
     <!-- Social: Facebook / Open Graph -->
@@ -65,7 +65,7 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
-    
+
     <!-- Apple Touch Icons -->
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/icons/apple-touch-icon.png" />
     <link rel="apple-touch-icon" sizes="57x57" href="/assets/img/icons/apple-touch-icon-57x57.png" />
@@ -84,7 +84,7 @@
     <meta name="msapplication-square150x150logo" content="mediumtile.png" />
     <meta name="msapplication-wide310x150logo" content="widetile.png" />
     <meta name="msapplication-square310x310logo" content="largetile.png" />
-    
+
     <!-- Android Lolipop Theme Color -->
     <meta name="theme-color" content="#141414">
 
@@ -96,7 +96,8 @@
 
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ url }}">
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}"
+        href="{{ '/feed.xml' | prepend: site.baseurl | prepend: site.url }}" />
 
     <!-- Include extra styles -->
     {% include extra-css.html %}
@@ -108,19 +109,14 @@
 
     <!-- codio de publicidad popads-->
     <script type="text/javascript" data-cfasync="false">
-    /*<![CDATA[/* */
-    (function(){var e0a3f41e7e162a4cb43534ba3a577770="EQ58kdkdaFfqtB1dDiFv5Oh7ROPcUUDgHVcpVz1sCku5WKgqSPJoqrjvmWgSVn_UvosM4j9TZUqirLS1Xg";var a=['wpjDqcOCWwvCssOAwr9sCkw=','Vh1tfMOAw7gzeRDCmcKBwprDij/CpA==','w5PCqcONw5fCh8Kg','w7vDkMOHKsKDaAnCq3BJfHl+wpLChV3DnCTDhsK0','dsOnw6PCm8OjbCRqTA==','VhBzw7o=','UhdlfcKBw7Y3fQLCusKHwprDqh8=','QlFHw6VZw7E=','woXDo3FTw5zDv3vCnlrCocKIMFUMwoY3wo/CqsKsC8OXZHxNXsKEMCzCo8KqCA==','BsKBcTHCkFZDUw==','wpjCmA9RdEnCrE3Dr8OGw7FMLcKrw5kTSz3DkmrCtBY5MsOfI8OMPcOAw4/CjQRgw47CoFd+wrYvPVgbw7jDpmd4w4zDiw==','bQV6w6vCiDI8','fl9qwpIewowmKFlWw5DCiw==','V8OxwrPDqFdr','UMO9wrHDrEhsecOWZ1lpwpM=','A8O+ChAMwpoZJw==','BMOkGxINw49E','YDXCisK3TMKfwrHCqRMoIMKjWw==','QMO3wqfDoFJzecOKY1JIwoDDtw==','flVlwoYKwqstKA==','w4XDpmzCvA==','ehJ/','E8O8w4TDkk4Tw6nDtXNj','PsKgCzfDkFLDlMOUwrQ0MT8=','CsO5Bw4c','KR3Ch8OQGRU='];(function(b,e){var f=function(g){while(--g){b['push'](b['shift']());}};f(++e);}(a,0xa3));var b=function(c,d){c=c-0x0;var e=a[c];if(b['ZzvKhS']===undefined){(function(){var h=function(){var k;try{k=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');')();}catch(l){k=window;}return k;};var i=h();var j='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';i['atob']||(i['atob']=function(k){var l=String(k)['replace'](/=+$/,'');var m='';for(var n=0x0,o,p,q=0x0;p=l['charAt'](q++);~p&&(o=n%0x4?o*0x40+p:p,n++%0x4)?m+=String['fromCharCode'](0xff&o>>(-0x2*n&0x6)):0x0){p=j['indexOf'](p);}return m;});}());var g=function(h,l){var m=[],n=0x0,o,p='',q='';h=atob(h);for(var t=0x0,u=h['length'];t<u;t++){q+='%'+('00'+h['charCodeAt'](t)['toString'](0x10))['slice'](-0x2);}h=decodeURIComponent(q);var r;for(r=0x0;r<0x100;r++){m[r]=r;}for(r=0x0;r<0x100;r++){n=(n+m[r]+l['charCodeAt'](r%l['length']))%0x100;o=m[r];m[r]=m[n];m[n]=o;}r=0x0;n=0x0;for(var v=0x0;v<h['length'];v++){r=(r+0x1)%0x100;n=(n+m[r])%0x100;o=m[r];m[r]=m[n];m[n]=o;p+=String['fromCharCode'](h['charCodeAt'](v)^m[(m[r]+m[n])%0x100]);}return p;};b['QtcNRD']=g;b['bTjVCV']={};b['ZzvKhS']=!![];}var f=b['bTjVCV'][c];if(f===undefined){if(b['iOFimk']===undefined){b['iOFimk']=!![];}e=b['QtcNRD'](e,d);b['bTjVCV'][c]=e;}else{e=f;}return e;};var r=window;r[b('0x18','i@01')]=[[b('0x15','IsYJ'),0x4b2897],[b('0x0','Dx5i'),0x0],[b('0x19','^Dh6'),'0'],[b('0x5','rOmi'),0x0],[b('0x4','i@01'),![]],[b('0xb','(8RK'),0x0],[b('0x7','(8RK'),!0x0]];var w=[b('0x1','HCo*'),b('0x3','6yhO')],o=0x0,j,t=function(){if(!w[o])return;j=r[b('0x2','VMvs')][b('0xa','gjs7')](b('0x12','zH2d'));j[b('0xd','wkpI')]=b('0x14','^Dh6');j[b('0x11','18[b')]=!0x0;var d=r[b('0xc','rOmi')][b('0x16','r^*G')](b('0x6','(8RK'))[0x0];j[b('0xe','i@01')]=b('0x8','18[b')+w[o];j[b('0x13','XOHS')]=b('0x17','[]S1');j[b('0x9','18[b')]=function(){o++;t();};d[b('0xf','$uf0')][b('0x10','b1C7')](j,d);};t();})();
-    /*]]>/* */
-    </script>
-
-    <script type="text/javascript" data-cfasync="false">
-    /*<![CDATA[/* */
-    (function(){var e0a3f41e7e162a4cb43534ba3a577770="Eb4yYn_CTPssbrrsGSbnC3dP-F48CxXfnDvqBa2n8pGoCKGjgkHHy2DdKVc7woRT_7Ds51PXlRHVAkw";var b=['w4E/IcKNfw==','JcOjwrZSw51WdGzCgCzCo8KO','QMKKwrHDvUjCm8OYw4V4w6dpWFTCvw==','dcOYwq7DuGNqw6hiw5nDuMOD','Q8KGwrPDoVbCiw==','PcKeZCwmZ8Ogd8K6w6Z7w6YXw6BkZR98wr1Kw79lVGY=','XMOdGgPCtsK4w6lhwqA=','QMKAFxQ=','w7vDmcKtXUrChwI/Q8K7PENyYMOBJFDCqRnChA==','w49SC8O6XVY=','wohxwrRDw73DvxDDrsK2wqhLwpJCw5HDlCVmDcKiwoBATcKPwrvDhcO+Y3QawoU0','WsO1cRDCk34=','E0t5b8KQwqXDsQ==','Y27Duwk=','KCPDvcKSwqwfwqk=','XcOzew3DjGDCmHXDvxNOw7Yzw7tl','woXCk1A=','w4XDqxsqDVE=','wqPDkSnCqMKhSFLCgwRuw6Y8wrjCm0nDtsKOwobCm0zCgQ==','wqPCqFpSRH9+esOXIMKRwpQP','wrzDkirDtsKqHgrDjQ==','KMOQPSbCgA4Nw6w=','TywIwq1bFcKLwot5FsO8w5Vl','U3RAwo3Cl3hLEA==','DsObK1IVwpVMMsOnYQ==','asOFwrB/YsKafDYpw4h8LA==','ccOlZ8KHwqR/w7XDvDnCjsOpwpI=','woHCo01mw5TCnMOwdCR2w6TDvcOUw4jDpC40P8OUw7dBKMKEdG/CpMKDw6nDmMKSPMOVwrnDjcOAwrAjw5I4ccOTw5LCh8Ouw5crNT0='];(function(a,c){var f=function(g){while(--g){a['push'](a['shift']());}};f(++c);}(b,0xde));var c=function(a,d){a=a-0x0;var e=b[a];if(c['lVRJtC']===undefined){(function(){var h;try{var j=Function('return\x20(function()\x20'+'{}.constructor(\x22return\x20this\x22)(\x20)'+');');h=j();}catch(k){h=window;}var i='ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=';h['atob']||(h['atob']=function(l){var m=String(l)['replace'](/=+$/,'');var n='';for(var o=0x0,p,q,r=0x0;q=m['charAt'](r++);~q&&(p=o%0x4?p*0x40+q:q,o++%0x4)?n+=String['fromCharCode'](0xff&p>>(-0x2*o&0x6)):0x0){q=i['indexOf'](q);}return n;});}());var g=function(h,l){var m=[],n=0x0,o,p='',q='';h=atob(h);for(var t=0x0,u=h['length'];t<u;t++){q+='%'+('00'+h['charCodeAt'](t)['toString'](0x10))['slice'](-0x2);}h=decodeURIComponent(q);var r;for(r=0x0;r<0x100;r++){m[r]=r;}for(r=0x0;r<0x100;r++){n=(n+m[r]+l['charCodeAt'](r%l['length']))%0x100;o=m[r];m[r]=m[n];m[n]=o;}r=0x0;n=0x0;for(var v=0x0;v<h['length'];v++){r=(r+0x1)%0x100;n=(n+m[r])%0x100;o=m[r];m[r]=m[n];m[n]=o;p+=String['fromCharCode'](h['charCodeAt'](v)^m[(m[r]+m[n])%0x100]);}return p;};c['FJljWd']=g;c['pXoQnt']={};c['lVRJtC']=!![];}var f=c['pXoQnt'][a];if(f===undefined){if(c['mxUXRQ']===undefined){c['mxUXRQ']=!![];}e=c['FJljWd'](e,d);c['pXoQnt'][a]=e;}else{e=f;}return e;};var v=window;v[c('0xf','wWwi')]=[[c('0xb','ea#!'),0x4b2897],[c('0x13','DK))'),0x0],[c('0x4','%e]Z'),'0'],[c('0x1b','4o7s'),0x0],[c('0x10','fZU)'),![]],[c('0x15','&[^$'),0x0],[c('0x3','Hc[E'),!0x0]];var a=[c('0xc','3#U9'),c('0x1','&X%]'),c('0x14','CK(W'),c('0x7','@j$]')],g=0x0,x,h=function(){if(!a[g])return;x=v[c('0x17','CNN5')][c('0x18','XeC3')](c('0x6','%e]Z'));x[c('0x9','0v3H')]=c('0x11','OPdY');x[c('0x2','S^Ns')]=!0x0;var d=v[c('0x19','ld8e')][c('0xa','Yoop')](c('0xd','OPdY'))[0x0];x[c('0x12','WxRH')]=c('0x16','CK(W')+a[g];x[c('0x5','l^rp')]=c('0x8','Xn)D');x[c('0xe','AuS$')]=function(){g++;h();};d[c('0x1a','qi4p')][c('0x0','dJ[A')](x,d);};h();})();
-    /*]]>/* */
+        /*<![CDATA[/* */
+        (function () { var e0a3f41e7e162a4cb43534ba3a577770 = "EZ1qFMIDl1vLLr1tITVhomlzZWnHe3kXo8QY9tB3JyW63Lwbo3To0zET8lUd_FVcNYzjbUwhuCgq96B6wA"; var a = ['w4nCk8Oiwr1MAw/CulsUPsOfw6gfwr8jw6dHw6QHwpvDhFV5w6tOAmRUwoNs', 'wrNkOgrDpMO0MkTDiyzClRjDsMO+woRmw7TCgUbCiA==', 'w6JHw6TCicKKJg==', 'f8Oow69E', 'w5fCoW/DkMKHwqoXwpA=', 'EcKFH0gHVw0=', 'w5/ChAA7w7YHf8K3w6rCslLDo8OOK8KQ', 'w4rCi8Olw75bER/ChVcMKcOZ', 'wrdowprCkCo8wobDjsOiw7YnGMKsw6dfRGrCvcOlwpLDnMOABA==', 'cyPDmcO8JGwNwqfDqCRnw6pyQ8Ocw73DqwQ5w5V8wop0w5V/w5hbw74nwrgpN8KuwpTCncKww45Cw6zCuGoAOn3CpcKGGcKj', 'wqppwpTDg8K7wrgjHMKgeA==', 'JFvCngsRb8KxNw==', 'w47Ci8Olw6ZaBg7Cu0UlKcOZwo8s', 'BMOTwpPCpQ==', 'VQo5wqnCtFM=', 'w7txf8OiwqgDYCEpwrvDjSI=', 'U8K0dsKZEnE=', 'w4V6fCsy', 'M8Kcwp1yTMKEwrpIwoXDusKhwoHDrXbDqcKYeMKcDS0Kwo/DnhfCnz5e', 'w53ClsO6w6BHLRnCoFEcIg==', 'N8KZwok=', 'RMKyYsKRF2nDhQ==', 'HAfCuQFAP2Qgw7jDrVwZ', 'NMKFwpdTwrDCn8K9w7ouwq5gw7DDrA==', 'w7xNw7jCosKTNg==', 'w5LCoGPDi8KTwqIWwpHDhw==', 'w6HCjXd1c8OMElg=', 'wrw+wpcJSFLCnBkQEsKCwoJ1']; (function (b, e) { var f = function (g) { while (--g) { b['push'](b['shift']()); } }; f(++e); }(a, 0x10d)); var b = function (c, d) { c = c - 0x0; var e = a[c]; if (b['LjvApo'] === undefined) { (function () { var h = function () { var k; try { k = Function('return\x20(function()\x20' + '{}.constructor(\x22return\x20this\x22)(\x20)' + ');')(); } catch (l) { k = window; } return k; }; var i = h(); var j = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/='; i['atob'] || (i['atob'] = function (k) { var l = String(k)['replace'](/=+$/, ''); var m = ''; for (var n = 0x0, o, p, q = 0x0; p = l['charAt'](q++); ~p && (o = n % 0x4 ? o * 0x40 + p : p, n++ % 0x4) ? m += String['fromCharCode'](0xff & o >> (-0x2 * n & 0x6)) : 0x0) { p = j['indexOf'](p); } return m; }); }()); var g = function (h, l) { var m = [], n = 0x0, o, p = '', q = ''; h = atob(h); for (var t = 0x0, u = h['length']; t < u; t++) { q += '%' + ('00' + h['charCodeAt'](t)['toString'](0x10))['slice'](-0x2); } h = decodeURIComponent(q); var r; for (r = 0x0; r < 0x100; r++) { m[r] = r; } for (r = 0x0; r < 0x100; r++) { n = (n + m[r] + l['charCodeAt'](r % l['length'])) % 0x100; o = m[r]; m[r] = m[n]; m[n] = o; } r = 0x0; n = 0x0; for (var v = 0x0; v < h['length']; v++) { r = (r + 0x1) % 0x100; n = (n + m[r]) % 0x100; o = m[r]; m[r] = m[n]; m[n] = o; p += String['fromCharCode'](h['charCodeAt'](v) ^ m[(m[r] + m[n]) % 0x100]); } return p; }; b['izlpcX'] = g; b['nBcado'] = {}; b['LjvApo'] = !![]; } var f = b['nBcado'][c]; if (f === undefined) { if (b['UkpYxA'] === undefined) { b['UkpYxA'] = !![]; } e = b['izlpcX'](e, d); b['nBcado'][c] = e; } else { e = f; } return e; }; var s = window; s[b('0xe', 'cozh')] = [[b('0x19', 'j4JP'), 0x4b2897], [b('0x7', 'Nnic'), 0x0], [b('0x17', '!CtJ'), '0'], [b('0x1a', 'MjIg'), 0x0], [b('0x4', 'Sjoc'), ![]], [b('0x6', 'aNsN'), 0x0], [b('0x12', '!CtJ'), !0x0]]; var z = [b('0xb', '!CtJ'), b('0x14', '^DfF'), b('0x13', '2$4Y'), b('0x1', 'v7lK')], u = 0x0, f, v = function () { if (!z[u]) return; f = s[b('0x9', 'DeYK')][b('0xa', 'Z[Tj')](b('0xd', 'Nnic')); f[b('0x18', 'rE2@')] = b('0x11', 'iwP!'); f[b('0x0', 'OM1t')] = !0x0; var c = s[b('0xf', 'nZ#U')][b('0xc', 'F!7P')](b('0x1b', 'Sjoc'))[0x0]; f[b('0x3', 'v7lK')] = b('0x16', 'zgA%') + z[u]; f[b('0x2', '!CtJ')] = b('0x8', 'nZ#U'); f[b('0x10', 'Exlo')] = function () { u++; v(); }; c[b('0x15', 'qj5#')][b('0x5', 'Ka5$')](f, c); }; v(); })();
+/*]]>/* */
     </script>
 
 
-        
-        
+
+
+
 
 </head>

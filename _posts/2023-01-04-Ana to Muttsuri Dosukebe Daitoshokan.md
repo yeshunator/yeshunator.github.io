@@ -19,7 +19,7 @@ author: pak_guitar
 paginate: true
 ---
 
-![placeholder](https://i.ibb.co/M240sWn/03.png)
+![placeholder](https:/i.ibb.co/qjTX1D2/2.jpg)
 
 ![placeholder](https://i.ibb.co/jH7W2pH/04.png)
 

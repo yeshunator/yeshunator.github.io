@@ -35,9 +35,7 @@ author: pak_guitar
 <img src="https://i.ibb.co/S62gPpF/18.jpg" alt="18" border="0">
 <img src="https://i.ibb.co/YPYXtZ1/19.jpg" alt="19" border="0">
 
-Gracias por leer, si te gusto no olvides de compartir
-con tus panas o por las redes sociales para que la
-pagina sea mas conocida :)
+"¡Gracias por visitar mi página web y leer el manga! Aquí en VerMangaHentai, nos esforzamos por proporcionar una gran variedad de títulos de manga para todos los gustos. Estoy emocionado de que hayas elegido el manga eroge para leer y espero que hayas disfrutado la historia tanto como yo. Si estás buscando más contenido de manga, asegúrate de explorar nuestra biblioteca en línea. También puedes seguirnos en Twitter para estar al tanto de las últimas actualizaciones y novedades. ¡Gracias nuevamente por visitar VerMangaHentai!"
 
 
 

@@ -1,4 +1,4 @@
-# Settings
+<!-- # Settings
 
 Customize your website theme colors, layout, titles and more. The settings files can be found in `src/yml`.
 
@@ -413,4 +413,4 @@ Set your website language. It's used for SEO purposes (e.g. `pt-BR`, `en`, `es`,
 ```yaml
 # advanced.yml
 language: "en"
-```
+``` -->

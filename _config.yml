@@ -1,7 +1,7 @@
 # Site Settings
 name: VerMangaHentai
-title: VerMangaHentai | manga hentai en español gratis
-description: Gratis Hentai Manga, Doujinshi y Anime XXX
+title: VerMangaHentai | Gratis Hentai Manga, Doujinshi y Anime XXX
+description: Bienvenidos a nuestro sitio manga hentai online, donde puedes leer tus mangas eroticos favoritos de forma gratuita y sin límites. Ofrecemos una amplia selección de títulos de manga hentai de diferentes géneros y autores, actualizados regularmente para tu entretenimiento. ¡Comienza tu aventura manga hoy y disfruta de la mejor experiencia de lectura manga en línea gratis!"
 tags:
   - blog
   - manga
@@ -43,9 +43,9 @@ twitter_username: vermangahentai
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
+show_modal_on_finish_post: false
 two_columns_layout: true
 
 
@@ -53,7 +53,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "349424108"
-language: "en"
+language: "es"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 

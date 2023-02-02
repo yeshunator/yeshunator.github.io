@@ -4,8 +4,8 @@ layout: post
 title: (flanvia) Ana to Muttsuri Dosukebe Daitoshokan 3 (español esclusivo)
 subtitle: tercera parte de mi personaje favorito
 description: tercera parte de mi personaje favorito
-image: https://imgbox.com/YyIGsW7d
-optimized_image: https://imgbox.com/YyIGsW7d
+image: https://images2.imgbox.com/25/4c/YyIGsW7d_o.jpg
+optimized_image: https://images2.imgbox.com/25/4c/YyIGsW7d_o.jpg
 category: doujinshi
 tags:
   - ahegao

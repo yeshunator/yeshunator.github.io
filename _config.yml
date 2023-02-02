@@ -1,7 +1,7 @@
 # Site Settings
 name: VerMangaHentai
 title: VerMangaHentai | Gratis Hentai Manga, Doujinshi y Anime XXX
-description: "Bienvenidos a nuestro sitio manga hentai en línea, donde puedes disfrutar de tus mangas eroticos favoritos sin límites y de forma gratuita. Ofrecemos una amplia selección de títulos de manga hentai de diferentes géneros y autores, actualizados regularmente para que siempre tengas algo nuevo y emocionante que leer. Nuestro catálogo está disponible las 24 horas del día, los 7 días de la semana, para que puedas leer manga en línea cuando y donde quieras. Además, nuestra página está optimizada para SEO con palabras clave como "leer manga hentai gratis en línea", "catálogo manga gratuito en línea", "sin descargas manga", etc. Ofrecemos una experiencia de lectura agradable y sin interrupciones, así como un diseño atractivo y fácil de usar. ¡Comienza tu aventura manga hoy y disfruta de la mejor experiencia de lectura manga en línea gratis!"
+description: Bienvenidos a nuestro sitio manga hentai en línea, donde puedes disfrutar de tus mangas eroticos favoritos sin límites y de forma gratuita. Ofrecemos una amplia selección de títulos de manga hentai de diferentes géneros y autores, actualizados regularmente para que siempre tengas algo nuevo y emocionante que leer. Nuestro catálogo está disponible las 24 horas del día, los 7 días de la semana, para que puedas leer manga en línea cuando y donde quieras. Además, nuestra página está optimizada para SEO con palabras clave como "leer manga hentai gratis en línea", "catálogo manga gratuito en línea", "sin descargas manga", etc. Ofrecemos una experiencia de lectura agradable y sin interrupciones, así como un diseño atractivo y fácil de usar. ¡Comienza tu aventura manga hoy y disfruta de la mejor experiencia de lectura manga en línea gratis!
 tags:
   - blog
   - manga
@@ -45,7 +45,7 @@ twitter_username: vermangahentai
 # Posts Settings
 show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: false
+show_modal_on_finish_post: true
 two_columns_layout: true
 
 
@@ -53,7 +53,7 @@ two_columns_layout: true
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 google_analytics: "349424108"
-language: "es"
+language: "en"
 categories_folder: category
 sent_message_url: "/contact/message-sent/"
 

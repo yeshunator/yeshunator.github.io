@@ -16,7 +16,7 @@ show_hero: true
 menu:
   - title: Home
     url: /
-  - tittle: Redes Sociales
+  - tittle: RedesSociales
     url: /redessociales
   - title: About
     url: /about

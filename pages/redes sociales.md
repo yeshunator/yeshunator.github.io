@@ -1,7 +1,7 @@
 ---
 layout: page
 menu: false
-date: '2023-02-08 01:53:59'
+date: '2023-02-08 12:53:59'
 title: Redes Sociales
 description: las redes sociales dela pagina.
 permalink: /redessociales/

@@ -7,8 +7,7 @@ description: las redes sociales de la pagina.
 permalink: /redessociales
 ---
 
-hola muy buenas, si quieren saber cual red social tenemos pues aqui lo encontraras
-por el momento solo tengo twitter
+hola muy buenas, si quieren saber cual red social tengo pues aqui lo encontraras
 
 # Twitter
 

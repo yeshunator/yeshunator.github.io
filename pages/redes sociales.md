@@ -13,3 +13,7 @@ por el momento solo tengo twitter
 # Twitter
 
 link: https://twitter.com/vermangahentai
+
+# Facebook
+
+link: https://www.facebook.com/vermangahentai2023

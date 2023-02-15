@@ -1,6 +1,6 @@
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: /
+url: https://stirring-longma-fc0838.netlify.app
 google_analytics: "349424108"
-language: "es"
+language: es
 categories_folder: category
-sent_message_url: "/contact/message-sent/"
+sent_message_url: /contact/message-sent/

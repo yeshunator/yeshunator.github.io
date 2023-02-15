@@ -70,7 +70,7 @@ author: pak_guitar
 <img src="https://i.ibb.co/6RS6DRW/24.jpg" alt="24" border="0">
 
 # DESCARGAR MANGA HENTAI
-<a href="https://i.ibb.co/0yszGwz/1.jpg"><img src="https://i.ibb.co/ph6KsCR/descargar.png" alt="descargar"/></a>
+<a href="https://mixdrop.gl/f/enpwvvnrup7qq1"><img src="https://i.ibb.co/ph6KsCR/descargar.png" alt="descargar"/></a>
 
 
 

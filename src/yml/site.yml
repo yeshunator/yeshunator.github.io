@@ -1,6 +1,18 @@
+formspree_form_id: xlevvqzq
 name: VerMangaHentai
 title: VerMangaHentai | Gratis Hentai Manga, Doujinshi y Anime XXX
-description: Bienvenidos a nuestro sitio manga hentai en línea, donde puedes disfrutar de tus mangas eroticos favoritos sin límites y de forma gratuita. Ofrecemos una amplia selección de títulos de manga hentai de diferentes géneros y autores, actualizados regularmente para que siempre tengas algo nuevo y emocionante que leer. Nuestro catálogo está disponible las 24 horas del día, los 7 días de la semana, para que puedas leer manga en línea cuando y donde quieras. Además, nuestra página está optimizada para SEO con palabras clave como "leer manga hentai gratis en línea", "catálogo manga gratuito en línea", "sin descargas manga", etc. Ofrecemos una experiencia de lectura agradable y sin interrupciones, así como un diseño atractivo y fácil de usar. ¡Comienza tu aventura manga hoy y disfruta de la mejor experiencia de lectura manga en línea gratis!
+description: Bienvenidos a nuestro sitio manga hentai en línea, donde puedes
+  disfrutar de tus mangas eroticos favoritos sin límites y de forma gratuita.
+  Ofrecemos una amplia selección de títulos de manga hentai de diferentes
+  géneros y autores, actualizados regularmente para que siempre tengas algo
+  nuevo y emocionante que leer. Nuestro catálogo está disponible las 24 horas
+  del día, los 7 días de la semana, para que puedas leer manga en línea cuando y
+  donde quieras. Además, nuestra página está optimizada para SEO con palabras
+  clave como "leer manga hentai gratis en línea", "catálogo manga gratuito en
+  línea", "sin descargas manga", etc. Ofrecemos una experiencia de lectura
+  agradable y sin interrupciones, así como un diseño atractivo y fácil de usar.
+  ¡Comienza tu aventura manga hoy y disfruta de la mejor experiencia de lectura
+  manga en línea gratis!
 tags:
   - blog
   - manga
@@ -12,6 +24,7 @@ tags:
   - manga hentai español
   - Anime XXX
 show_hero: true
+paginate: 15
 menu:
   - title: Home
     url: /
@@ -26,8 +39,4 @@ menu:
   - title: Feed
     url: /feed.xml
 email: hackyeshua12@gmail.com
-# See: https://disqus.com/
 disqus_username: pak_guitar
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: xlevvqzq

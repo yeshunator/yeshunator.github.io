@@ -1,6 +1,6 @@
 ---
 layout: page
-menu: false
+menu: true
 date: 2023-02-14 23:14:36
 title: prueba febrero
 permalink: /{{slug}}/

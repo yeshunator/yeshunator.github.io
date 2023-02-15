@@ -6,7 +6,7 @@ subtitle: sin texto
 description: sin texto
 image: https://i.ibb.co/mRVvmWT/1.jpg
 optimized_image: https://i.ibb.co/mRVvmWT/1.jpg
-category: manga
+category: artist cg
 tags:
   - ahegao
   - exhibitionism

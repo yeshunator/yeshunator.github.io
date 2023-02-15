@@ -6,7 +6,7 @@ subtitle: la komi-san gente
 description: la komi-san gente
 image: https://i.ibb.co/X57GnZz/1.jpg
 optimized_image: https://i.ibb.co/X57GnZz/1.jpg
-category: manga
+category: doujinshi
 tags:
   - ahegao
   - anal

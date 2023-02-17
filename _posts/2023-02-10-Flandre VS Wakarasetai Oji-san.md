@@ -1,7 +1,7 @@
 ---
 date: 2023-02-10 06:26:40
 layout: post
-title: (flanvia) Flandre VS Wakarasetai Oji-san
+title: (flanvia) Flandre VS Wakarasetai Oji-san (Español Exclusivo)
 subtitle: otro doujinshi hentai de touhou ahora con flandre
 description: otro doujinshi hentai de touhou ahora con flandre
 image: https://i.ibb.co/sbpK1T8/1.jpg

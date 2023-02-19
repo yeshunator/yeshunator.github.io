@@ -12,6 +12,7 @@ pagination:
   page: paginas
   next_page: siguiente pagina
   next_post: siguiente post
+  of: de
 error_404:
   message: Ups, parece que la pagina que buscas no existe
 contact:

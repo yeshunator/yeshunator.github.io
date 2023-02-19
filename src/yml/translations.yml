@@ -1,0 +1,24 @@
+texts:
+  new_post: Nuevo Post
+  seel_also: Leer otros doujinshi
+  search: Buscar
+  share: Compartir en redes sociales
+  comments: Comentarios
+button:
+  read_now: Leer ahora
+  share_on_twitter: comparte en twitter
+  share_on_facebook: comparte en facebook
+pagination:
+  page: paginas
+  next_page: siguiente pagina
+  next_post: siguiente post
+error_404:
+  message: Ups, parece que la pagina que buscas no existe
+contact:
+  title: Contactame
+  submit_btn: Enviar Email
+  after_send:
+    title: Mensaje enviado :)
+    message: Gracias por enviarnos un mensaje, en 24 horas le responderemos
+  errors:
+    locale: en

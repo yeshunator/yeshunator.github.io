@@ -1,6 +1,5 @@
 source "https://rubygems.org"
 
-ruby '3.2.1'
 gem 'rubygems-update', '~> 3.4', '>= 3.4.7'
 gem 'bundler'
 gem "kramdown"

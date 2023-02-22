@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'bundler', '~> 2.4'
+gem "bundler", "2.4.7"
 gem "kramdown"
 gem "kramdown-parser-gfm"
 gem "rouge"

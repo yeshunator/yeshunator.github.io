@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem 'netlify-bundler', '~> 2.0'
+gem 'netlify-bundler', '~> 2.2'
 gem "kramdown"
 gem "kramdown-parser-gfm"
 gem "rouge"

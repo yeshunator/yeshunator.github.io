@@ -1,7 +1,19 @@
 # Site Settings
+formspree_form_id: xlevvqzq
 name: VerMangaHentai
 title: VerMangaHentai | Gratis Hentai Manga, Doujinshi y Anime XXX
-description: Bienvenidos a nuestro sitio manga hentai en línea, donde puedes disfrutar de tus mangas eroticos favoritos sin límites y de forma gratuita. Ofrecemos una amplia selección de títulos de manga hentai de diferentes géneros y autores, actualizados regularmente para que siempre tengas algo nuevo y emocionante que leer. Nuestro catálogo está disponible las 24 horas del día, los 7 días de la semana, para que puedas leer manga en línea cuando y donde quieras. Además, nuestra página está optimizada para SEO con palabras clave como "leer manga hentai gratis en línea", "catálogo manga gratuito en línea", "sin descargas manga", etc. Ofrecemos una experiencia de lectura agradable y sin interrupciones, así como un diseño atractivo y fácil de usar. ¡Comienza tu aventura manga hoy y disfruta de la mejor experiencia de lectura manga en línea gratis!
+description: Bienvenidos a nuestro sitio manga hentai en línea, donde puedes
+  disfrutar de tus mangas eroticos favoritos sin límites y de forma gratuita.
+  Ofrecemos una amplia selección de títulos de manga hentai de diferentes
+  géneros y autores, actualizados regularmente para que siempre tengas algo
+  nuevo y emocionante que leer. Nuestro catálogo está disponible las 24 horas
+  del día, los 7 días de la semana, para que puedas leer manga en línea cuando y
+  donde quieras. Además, nuestra página está optimizada para SEO con palabras
+  clave como "leer manga hentai gratis en línea", "catálogo manga gratuito en
+  línea", "sin descargas manga", etc. Ofrecemos una experiencia de lectura
+  agradable y sin interrupciones, así como un diseño atractivo y fácil de usar.
+  ¡Comienza tu aventura manga hoy y disfruta de la mejor experiencia de lectura
+  manga en línea gratis!
 tags:
   - blog
   - manga
@@ -12,7 +24,16 @@ tags:
   - manga porno español
   - manga hentai español
   - Anime XXX
+  - doujinshi online
+  - páginas doujinshi online
+  - manga online
+  - leer manga online
+  - manga online español
+  - doujinshi hentai
+  - leer manga hentai
+  - comics anime hentai
 show_hero: true
+paginate: 16
 menu:
   - title: Home
     url: /
@@ -27,21 +48,17 @@ menu:
   - title: Feed
     url: /feed.xml
 email: hackyeshua12@gmail.com
-# See: https://disqus.com/
 disqus_username: pak_guitar
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: xlevvqzq
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-# github_username: github_username
+#github_username: github_username
 facebook_username: vermangahentai2023
 twitter_username: vermangahentai
-# instagram_username: instagram_username
-# linkedin_username: linkedin_username
-# medium_username: medium_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
@@ -52,12 +69,12 @@ two_columns_layout: true
 
 
 # Advanced Settings
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: 
+url: 
 google_analytics: "349424108"
-language: "es"
+language: es
 categories_folder: category
-sent_message_url: "/contact/message-sent/"
+sent_message_url: /contact/message-sent/
 
 
 # Build settings

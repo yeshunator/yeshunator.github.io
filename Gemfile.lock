@@ -68,6 +68,7 @@ PLATFORMS
   x64-mingw-ucrt
 
 DEPENDENCIES
+  bundler (= 2.4.7)
   jekflix
   jekyll
   jekyll-paginate

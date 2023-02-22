@@ -1,2 +1,12 @@
 [build]
-  command = "bundle update --bundler"
+  command = "bundle update && bundle exec gulp build"
+  publish = "_site"
+
+[build.environment]
+  # Configura el directorio de trabajo
+  NODE_VERSION = "lts/*"
+  BUNDLE_PATH = "vendor/bundle"
+
+[dev]
+  # Configura el comando de inicio para desarrollo
+  command = "bundle exec gulp dev"

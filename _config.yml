@@ -1,5 +1,4 @@
 # Site Settings
-formspree_form_id: xlevvqzq
 name: VerMangaHentai
 title: VerMangaHentai | Gratis Hentai Manga, Doujinshi y Anime XXX
 description: Bienvenidos a nuestro sitio manga hentai en línea, donde puedes
@@ -47,6 +46,7 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+formspree_form_id: xlevvqzq
 email: hackyeshua12@gmail.com
 disqus_username: pak_guitar
 

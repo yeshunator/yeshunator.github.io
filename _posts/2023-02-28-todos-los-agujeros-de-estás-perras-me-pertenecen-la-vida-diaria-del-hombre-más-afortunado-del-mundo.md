@@ -1,8 +1,8 @@
 ---
 date: 2023-02-28 00:09:12
 layout: post
-title: Todos los Agujeros de estás Perras me Pertenecen - La Vida Diaria del
-  Hombre más Afortunado del Mundo
+title: (Shiroganean) Todos los Agujeros de estás Perras me Pertenecen - La Vida
+  Diaria del Hombre más Afortunado del Mundo
 description: un wey se coje a cualquier mujer que se topa en su camino
 image: https://i.ibb.co/25WnMpv/1.jpg
 optimized_image: https://i.ibb.co/25WnMpv/1.jpg

@@ -38,4 +38,4 @@ paginate: false
 
 ## DESCARGAR MANGA HENTAI
 
-<a href="https://mixdrop.gl/f/gnp7001ziwnq60"><img src="https://i.ibb.co/ph6KsCR/descargar.png" alt="descargar"/></a>
+<a href="https://exe.io/nzFplnW"><img src="https://i.ibb.co/ph6KsCR/descargar.png" alt="descargar"/></a>

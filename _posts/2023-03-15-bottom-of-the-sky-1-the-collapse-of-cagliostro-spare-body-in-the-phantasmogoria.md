@@ -2,7 +2,7 @@
 date: 2023-03-14 20:50:36
 layout: post
 title: "BOTTOM of the SKY 1: The collapse of Cagliostro spare body in the
-  phantasmogoria"
+  phantasmogoria (español)"
 description: una chica alquimista es violada muy dura por un grupo
 image: https://i.ibb.co/3BYCGTs/11.jpg
 optimized_image: https://i.ibb.co/3BYCGTs/11.jpg
